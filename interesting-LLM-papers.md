@@ -1,0 +1,2 @@
+- LLM Inference Using Lookahead Decoding https://lmsys.org/blog/2023-11-21-lookahead-decoding/
+- Parallel Speculative Sampling  https://arxiv.org/abs/2311.13581 
