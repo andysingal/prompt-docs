@@ -38,3 +38,13 @@ Recency bias is the tendency of large language models to give more weight to the
 
 One possible way to overcome recency bias is to break down the task into smaller steps or subtasks, and provide feedback or guidance along the way. This can help the model focus on each step and avoid getting lost in irrelevant details. 
 <img width="670" alt="Screenshot 2024-04-18 at 3 15 05 PM" src="https://github.com/andysingal/prompt-docs/assets/20493493/b571689c-0bab-48d5-8a2e-bf046058584d">
+
+### Use delimiters
+The last principle to be covered is related to the format we want to give to our meta prompt. This helps our LLM to better understand its intents as well as making relations among sections and paragraphs. To achieve this, we can use delimiters within our prompt. A delimiter can by any sequence of characters or symbols that is clearly mapping a schema rather than a concept. For example, we can consider delimiters the following sequences:
+
+- >>>>
+- ====
+- ------
+- ####
+- ` ` ` ` `
+
