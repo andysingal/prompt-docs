@@ -1,0 +1,16 @@
+Instructions
+---
+Let's create a list of article headlines that I could write about for the topic: digital marketing?
+
+Example output
+---
+- 10 Digital Marketing Strategies
+- That Will Boost Your Business Growth
+- 5 Dos and 10 Don'ts
+- How to Use Influencer Marketing to Reach Your Target Audience
+
+Rules
+---
+Don't talk about SEO in the article titles
+Also avoid including any references to blogging, or email marketing with the generated headlines:
+---
