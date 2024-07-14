@@ -6,4 +6,5 @@
 
 Resources:
 - https://github.com/friuns2/Leaked-GPTs
-- https://github.com/mufeedvh/code2prompt 
+- https://github.com/mufeedvh/code2prompt
+- [Promptflow-langchain](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/genai-mastery-crafting-robust-enterprise-solutions-with/ba-p/4188707)
