@@ -5,3 +5,5 @@
 [promptic](https://github.com/knowsuchagency/promptic)
 
 [files-to-prompt](https://github.com/simonw/files-to-prompt)
+
+[code2prompt](https://github.com/mufeedvh/code2prompt)
