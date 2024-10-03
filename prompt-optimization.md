@@ -4,3 +4,16 @@
 
 
 [Promptflow Prompt Flow For Rag](https://www.restack.io/p/promptflow-answer-prompt-flow-for-rag-cat-ai)
+
+[Automatic prompt engineering](https://x.com/cwolferesearch/status/1841557739308286424)
+
+1. Construct a “meta prompt” that asks the LLM to write a new prompt based on prior context (i.e., previous prompts and their performance metrics).
+2. Generate new prompts with an “optimizer” LLM.
+3. Evaluate these prompts using another LLM, producing an objective value / score.
+4. Select prompts with the best scores.
+5. Repeat steps 1-4 until we can’t find a better prompt.
+
+
+Definitions:
+- Meta-prompt: Meta prompts are instructions that guide an AI's behaviour or output in specific ways. They act as a framework for the AI's interpretation and response to subsequent prompts or queries. This article explores the concept of meta prompts, using examples from a system prompt designed for worksheet generation.
+![Screenshot 2024-10-03 091834](https://github.com/user-attachments/assets/d92ae568-2154-425c-8f00-384400d14d23)
