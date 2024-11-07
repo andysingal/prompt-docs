@@ -9,3 +9,5 @@
 [code2prompt](https://github.com/mufeedvh/code2prompt)
 
 [promtlayer](https://blog.promptlayer.com/)
+
+[promptQL](https://promptql.hasura.io/docs/example-github)
