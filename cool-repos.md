@@ -11,3 +11,6 @@
 [promtlayer](https://blog.promptlayer.com/)
 
 [promptQL](https://promptql.hasura.io/docs/example-github)
+
+
+[Promptwright - Synthetic Dataset Generation Library](https://github.com/StacklokLabs/promptwright)
