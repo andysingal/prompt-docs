@@ -14,3 +14,11 @@
 
 
 [Promptwright - Synthetic Dataset Generation Library](https://github.com/StacklokLabs/promptwright)
+
+
+[Promptim](https://github.com/hinthornw/promptimizer)
+
+Promptim is an experimental prompt optimization library to help you systematically improve your AI systems.
+
+Promptim automates the process of improving prompts on specific tasks. You provide initial prompt, a dataset, and custom evaluators (and optional human feedback), and promptim runs an optimization loop to produce a refined prompt that aims to outperform the original.
+
