@@ -17,3 +17,6 @@
 Definitions:
 - Meta-prompt: Meta prompts are instructions that guide an AI's behaviour or output in specific ways. They act as a framework for the AI's interpretation and response to subsequent prompts or queries. This article explores the concept of meta prompts, using examples from a system prompt designed for worksheet generation.
 ![Screenshot 2024-10-03 091834](https://github.com/user-attachments/assets/d92ae568-2154-425c-8f00-384400d14d23)
+
+
+<img width="869" alt="Screenshot 2024-12-28 at 9 06 16 PM" src="https://github.com/user-attachments/assets/66b05885-dfeb-49c6-a031-54f6cb9de813" />
