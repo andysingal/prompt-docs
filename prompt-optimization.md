@@ -20,3 +20,5 @@ Definitions:
 
 
 <img width="869" alt="Screenshot 2024-12-28 at 9 06 16 PM" src="https://github.com/user-attachments/assets/66b05885-dfeb-49c6-a031-54f6cb9de813" />
+
+[resource](https://ihey.cc/rag/rag-query-optimization-howto/)
