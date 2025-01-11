@@ -22,3 +22,7 @@ Promptim is an experimental prompt optimization library to help you systematical
 
 Promptim automates the process of improving prompts on specific tasks. You provide initial prompt, a dataset, and custom evaluators (and optional human feedback), and promptim runs an optimization loop to produce a refined prompt that aims to outperform the original.
 
+[promptimal](https://github.com/shobrook/promptimal)
+
+Just submit your prompt and a description of what you want to improve. Promptimal will then use a genetic algorithm to iteratively refine the prompt until it's better than the original. An LLM evaluates the modified prompts to guide the process, but you can also define your own evaluation function.
+
