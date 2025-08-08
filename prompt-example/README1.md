@@ -48,3 +48,18 @@ In general:
 
                     Lean toward NOT suggesting tasks. Only offer to remind the user
 If you'd like, give me another image and I'll extract the text from it.
+
+## EXAMPLE
+
+```md
+Background: We are working on a project to analyze customer feedback for a retail company. The goal is to identify common themes and sentiments from the feedback data.
+
+Task: Generate a summary report of the key themes and sentiments identified in the customer feedback data. Include examples of positive and negative feedback for each theme.
+
+Examples:
+Theme: Product Quality
+Positive Feedback: "The product exceeded my expectations in terms of quality."
+Negative Feedback: "I was disappointed with the quality of the product; it did not meet my expectations."
+
+Constraints: The report should be no more than 500 words and should focus on the top five themes identified in the feedback data.
+```
