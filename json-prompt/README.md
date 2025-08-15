@@ -38,3 +38,52 @@
   }
 }
 ```
+
+
+```json
+{
+  "shot": {
+    "composition": "medium close-up of the cat reclining in a plush white spa chair",
+    "lens": "85mm prime lens for shallow depth of field",
+    "frame_rate": "24fps",
+    "camera_movement": "slow push-in toward the cat"
+  },
+
+  "subject": {
+    "description": "photorealistic orange tabby cat with bright green eyes, looking blissfully content",
+    "wardrobe": "small white towel wrapped around its head like a turban",
+    "props": "cucumber slices resting over its closed eyes"
+  },
+
+  "scene": {
+    "location": "luxurious modern spa interior with marble accents",
+    "time_of_day": "late afternoon",
+    "environment": "soft steam in the air, potted orchids in the background"
+  },
+
+  "visual_details": {
+    "action": "cat leans back as a spa attendant’s hands gently massage its shoulders",
+    "special_effects": "subtle steam wisps drifting across the frame",
+    "hair_clothing_motion": "cat’s fur slightly fluffs as it relaxes"
+  },
+
+  "cinematography": {
+    "lighting": "soft, warm diffused lighting with golden highlights",
+    "color_palette": "creamy whites, warm golds, and natural greens",
+    "tone": "serene and indulgent"
+  },
+
+  "audio": {
+    "music": "soft instrumental harp and chimes",
+    "ambient": "gentle bubbling water and faint spa chatter in the distance",
+    "sound_effects": "subtle purr from the cat",
+    "mix_level": "balanced with music slightly dominant over ambient sounds"
+  },
+
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
+```
