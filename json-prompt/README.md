@@ -87,3 +87,51 @@
   }
 }
 ```
+
+```json
+{
+  "shot": {
+    "composition": "begins in suspended macro focus on a single espresso drop against infinite black, transitions into a seamless top-down ballet of swirling liquid, culminates in a locked macro hero shot as vapor sculpts the Nespresso logo above the glass",
+    "lens": "ultra-macro probe lens for micro-drop detail, 85mm for cinematic product depth",
+    "frame_rate": "120fps",
+    "camera_movement": "slow-motion vertical plunge tracking the drop, spiraling camera sync with swirl formation, slow push-in and upward tilt to capture logo in vapor above cup"
+  },
+
+  "subject": {
+    "description": "a solitary drop of espresso unlocks a choreographed transformation — liquid energy swirls into the ‘N’ logo, hardens into a Nespresso pod, and completes as a flawless espresso shot with vapor rising into brand signature",
+    "wardrobe": "not applicable",
+    "props": "polished Nespresso pod, minimalist espresso glass on matte black saucer, modern Nespresso machine visible in defocus"
+  },
+
+  "scene": {
+    "location": "architectural black marble counter with a single light source overhead",
+    "time_of_day": "pre-dawn, creating a sanctuary-like atmosphere",
+    "environment": "pristine, monastic minimalism with gentle steam currents and high-gloss light accents"
+  },
+
+  "visual_details": {
+    "action": "drop stretches and falls in time-stretched silence; impact creates a spiraling, golden-brown vortex that contracts and floats into the precise contours of the ‘N’; it solidifies into a metallic pod mid-air and drops into the machine, where a rich stream of crema flows into the glass; final vapor rise subtly sculpts the Nespresso logo, which lingers and fades",
+    "special_effects": "photoreal fluid slow-motion, zero-gravity logo morphing, refractive shimmer on pod materialization, dynamic vapor sculpting with timed logo reveal",
+    "hair_clothing_motion": "not applicable"
+  },
+
+  "cinematography": {
+    "lighting": "single-point rim lighting with bounce off marble surface, precise chrome highlights on pod and glass, subtle edge glow on rising vapor",
+    "color_palette": "liquid bronze, matte obsidian, soft crema gold, mirror-silver chrome",
+    "tone": "pure, sensual, quietly iconic"
+  },
+
+  "audio": {
+    "music": "minimalist piano motif with enveloping bass textures and a rising harmonic swell during transformations",
+    "ambient": "silken silence punctuated by soft steam exhale and machine hum",
+    "sound_effects": "micro-drop tension pop, swirl resonance, metallic click of pod insertion, crema bloom, branded vapor breath",
+    "mix_level": "ultra-clean, dynamic spatial mix with cinematic depth and tactile nuance"
+  },
+
+  "dialogue": {
+    "character": "",
+    "line": "",
+    "subtitles": false
+  }
+}
+```
