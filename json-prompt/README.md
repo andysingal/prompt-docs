@@ -135,3 +135,72 @@
   }
 }
 ```
+
+
+```json
+{
+  "shot": {
+    "composition": "three structured cuts — intro mid-shot, close-up zoom for live eyeliner drawing, final glam reveal",
+    "lens": "35mm for vlog intro, 85mm macro for eyeliner detail",
+    "frame_rate": "30fps",
+    "camera_movement": "static tripod for intro, slow zoom-in for application, smooth dolly out for reveal"
+  },
+  "subject": {
+    "description": "beauty vlogger showing a perfect eyeliner tutorial from scratch with no pre-applied makeup on eyelids",
+    "wardrobe": "casual stylish top, slick bun hairstyle, natural base makeup only",
+    "props": "mirror with light ring, handheld vlogging cam, liquid eyeliner pen"
+  },
+  "scene": {
+    "location": "bright bedroom vanity setup with natural light and small plants",
+    "time_of_day": "midday soft natural lighting",
+    "environment": "tidy influencer-style setup with clean white surfaces and glam touches"
+  },
+  "visual_details": {
+    "action": "woman speaks to camera, then turns to mirror and draws precise eyeliner from clean eyelid; full line builds visibly in real time",
+    "special_effects": "none — focus on realism and clarity of the eyeliner stroke",
+    "hair_clothing_motion": "subtle motion as she turns and applies"
+  },
+  "cinematography": {
+    "lighting": "balanced daylight and ring light with soft catchlights and no harsh shadows",
+    "color_palette": "skin tones, white, rose gold accents",
+    "tone": "clean, instructional, confident"
+  },
+  "audio": {
+    "music": "low-key pop tutorial beat, unobtrusive",
+    "ambient": "soft room tone",
+    "sound_effects": "eyeliner tip brushing skin softly",
+    "mix_level": "clear vocal priority with light background music"
+  },
+  "dialogue": {
+    "character": "Woman",
+    "line": "Alright — bare lids, no tricks — here’s how to nail the perfect liner flick in one shot.",
+    "subtitles": false
+  },
+  "timeline": [
+    {
+      "t": "0-3s",
+      "description": "Vlogger introduces tutorial to camera with fresh, clean eyelids; no eyeliner visible"
+    },
+    {
+      "t": "3-6s",
+      "description": "Camera zooms tight on her eye as she draws full eyeliner line from inner to wing in one smooth stroke"
+    },
+    {
+      "t": "6-8s",
+      "description": "She faces camera, both eyes now done, posing confidently and giving a quick wink"
+    }
+  ],
+  "rules": [
+    "No eyeliner should be visible at the start — clean eyelids only",
+    "Show full application live and in real time",
+    "No text overlays or jump cuts",
+    "Application must feel smooth, confident, and achievable"
+  ],
+  "negatives": [
+    "pre-applied eyeliner",
+    "eyeliner fade-in or effect masking",
+    "fast forward or speed ramping",
+    "text or graphics overlays"
+  ]
+}
+```
