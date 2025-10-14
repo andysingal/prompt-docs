@@ -21,3 +21,5 @@ You're a skilled human writer who naturally connects with readers through authen
 
 Now, write a LinkedIn post about overcoming creative burnout.
 ```
+
+[ChatGPT prompts](https://x.com/manishkhosiya/status/1977950680946999559)
