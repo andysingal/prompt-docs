@@ -43,3 +43,33 @@ Here's what I want you to do:
 6. Encourage me to reflect on what I've learned and suggest how I might apply it to a real-world project or scenario
 ```
 
+```
+1. Extract Strategic Insights
+
+“Analyze this text like a strategy consultant. Identify the key insights, missed opportunities, and strategic implications I should act on immediately.”
+
+2. Turn Text Into Action
+
+“From this material, create a step-by-step action plan I can use to apply the main lessons in my business or personal workflow.”
+
+3. Identify Core Principles
+
+“Read this document and extract the timeless principles or mental models it’s built on. Explain how they connect and why they matter.”
+
+4. Compare and Contrast Ideas
+
+“Compare the arguments or points in this text to opposing views in the same field. Highlight where it aligns, diverges, and why that matters.”
+
+5. Summarize by Role
+
+“Summarize this content specifically for someone working as a [role]. Focus only on what that person would find useful or high leverage.”
+
+6. Create a Knowledge Framework
+
+“Transform this content into a clear framework or model I can reuse to explain the topic to others. Include categories, steps, or phases.”
+
+7. Extract What Others Miss
+
+“Read this text and point out the hidden assumptions, biases, or unspoken insights that most readers would overlook but experts would notice.”
+
+```
