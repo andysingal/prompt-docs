@@ -47,3 +47,6 @@ Given the product, target audience, and goal:
 This should be delivered as a comprehensive marketing kit, ready to deploy.
 </Instructions>
 ```
+<img width="523" height="705" alt="Screenshot 2026-02-24 at 4 18 28 PM" src="https://github.com/user-attachments/assets/4f3f1ed9-d62d-4b51-9ae7-8f80640230f4" />
+
+
