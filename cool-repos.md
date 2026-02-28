@@ -28,3 +28,6 @@ Just submit your prompt and a description of what you want to improve. Promptima
 
 [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
+[prompts.chat](https://github.com/f/prompts.chat)
+-- https://prompts.chat/prompts
+-- https://github.com/f/prompts.chat/blob/main/CLAUDE.md
