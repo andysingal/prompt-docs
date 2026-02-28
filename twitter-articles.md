@@ -34,5 +34,6 @@ Lessons Learned
 ##Resources
 - [Increase output consistency](https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/increase-consistency)
 - [Modifying system prompts](https://platform.claude.com/docs/en/agent-sdk/modifying-system-prompts)
+- [We’re turning Todos into Tasks in Claude Code](https://x.com/trq212/status/2014480496013803643)
 
 
