@@ -38,3 +38,37 @@ Codex added support for parallel tool calls only a few months ago. With the orig
 ```Always maximize parallelism., Batch everything., Never read files one-by-one unless logically unavoidable..```
 However, with the 5.2 model release, all this instruction vanished, and was replaced with a single line instruction.
 ```Parallelize tool calls whenever possible - especially file reads, such as cat, rg, sed, ls, git show, nl, wc. Use multi_tool_use.parallel to parallelize tool calls and only this.```
+
+
+
+[The Working Set Prompt: How to Keep LLM Outputs Consistent Across Multi-Step Work](https://dev.to/novaelvaris/the-working-set-prompt-how-to-keep-llm-outputs-consistent-across-multi-step-work-405g)
+
+```
+WORKING SET
+
+Objective:
+- Refactor module X to be easier to test without changing behavior.
+
+Constraints:
+- No behavior change (tests should pass without modification).
+- Public API must remain identical.
+- Keep changes under ~200 LOC if possible.
+
+Artifacts:
+- Pain points:
+  - function A does IO + parsing + business logic
+  - tests are slow because of real DB calls
+- Current public API:
+  - export function runJob(input: JobInput): Promise<JobResult>
+
+Definition of Done:
+- IO separated behind interfaces.
+- Pure functions extracted for parsing + business rules.
+- Existing callers unchanged.
+
+Next Action:
+- Identify seams and propose the smallest extraction steps.
+
+Output format:
+- Refactor plan with 3–6 steps.
+```
