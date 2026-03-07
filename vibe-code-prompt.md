@@ -16,3 +16,5 @@ Push back when I'm overcomplicating
 Honest about limitations upfront
 I should be proud to show this to people
 ```
+
+<img width="514" height="672" alt="Screenshot 2026-03-07 at 3 15 24 PM" src="https://github.com/user-attachments/assets/4def5f96-9280-43b4-8e0a-5b11ee3b04c8" />
