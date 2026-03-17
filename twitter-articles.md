@@ -31,6 +31,8 @@ Lessons Learned
 - Monitor your cache hit rate like you monitor uptime. We alert on cache breaks and treat them as incidents. A few percentage points of cache miss rate can dramatically affect cost and latency.
 - Fork operations need to share the parent's prefix. If you need to run a side computation (compaction, summarization, skill execution), use identical cache-safe parameters so you get cache hits on the parent's prefix.
 
+[Stop Writing Better Prompts. Start Building Better Context](https://x.com/witcheer/status/2033646544315150824)
+
 ##Resources
 - [Increase output consistency](https://platform.claude.com/docs/en/test-and-evaluate/strengthen-guardrails/increase-consistency)
 - [Modifying system prompts](https://platform.claude.com/docs/en/agent-sdk/modifying-system-prompts)
