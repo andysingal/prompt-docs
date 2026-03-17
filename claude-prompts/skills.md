@@ -40,3 +40,6 @@ allowed-tools: Bash(gh *)
 ##Your task
 Summarize this pull request
 ```
+[mattpocock_skills](https://github.com/mattpocock/skills)
+
+A collection of agent skills that extend capabilities across planning, development, and tooling
