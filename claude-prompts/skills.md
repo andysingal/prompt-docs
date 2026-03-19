@@ -43,3 +43,8 @@ Summarize this pull request
 [mattpocock_skills](https://github.com/mattpocock/skills)
 
 A collection of agent skills that extend capabilities across planning, development, and tooling
+
+
+## Article
+- [How to Use Agent Skills in Enterprise LLM Agent Systems](https://dev.to/qtalen/how-to-use-agent-skills-in-enterprise-llm-agent-systems-15h2)
+After spending the better part of a year building enterprise agent applications, I came to one conclusion: if your agent system can't plug into your company's existing business processes, it won't bring real value to your organization.
