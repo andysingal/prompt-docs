@@ -20,3 +20,34 @@ Then give me:
 - A list of any conflicts you found between files
 - A cleaned-up version of my CLAUDE.md with the dead weight removed
 ```
+
+[Rimsha Bhardwaj](https://x.com/heyrimsha/status/2037145631987556748)
+
+Best GitHub repos for Claude code that will 10x your next project in 2026:
+
+ 1. Claude Mem
+https://github.com/thedotmack/claude-mem
+
+ 2. UI UX Pro Max
+https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+
+ 3. n8n-MCP
+https://github.com/czlonkowski/n8n-mcp
+
+ 4. Obsidian Skills
+https://github.com/kepano/obsidian-skills
+
+ 5. LightRAG
+https://github.com/hkuds/lightrag
+
+ 6. Everything Claude Code
+https://github.com/affaan-m/everything-claude-code
+
+ 7. Superpowers
+https://github.com/obra/superpowers
+
+ 8. Awesome Claude Code
+https://github.com/hesreallyhim/awesome-claude-code
+
+9. GSD (Get Shit Done)
+https://github.com/gsd-build/get-shit-done
