@@ -51,3 +51,5 @@ https://github.com/hesreallyhim/awesome-claude-code
 
 9. GSD (Get Shit Done)
 https://github.com/gsd-build/get-shit-done
+
+10. [Universal Claude.md](https://github.com/drona23/claude-token-efficient)
