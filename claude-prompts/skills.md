@@ -73,3 +73,4 @@ Output: Use the Knowledge base to help generate work that aligns with the resear
 - [How to Use Agent Skills in Enterprise LLM Agent Systems](https://dev.to/qtalen/how-to-use-agent-skills-in-enterprise-llm-agent-systems-15h2)
 After spending the better part of a year building enterprise agent applications, I came to one conclusion: if your agent system can't plug into your company's existing business processes, it won't bring real value to your organization.
 - [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner) -- A best-effort security scanner for AI Agent Skills that detects prompt injection, data exfiltration, and malicious code patterns. Combines pattern-based detection (YAML + YARA), LLM-as-a-judge, and behavioral dataflow analysis to maximize detection coverage of probable threats while minimizing false positives.
+- [Master Claude Skills](https://x.com/TheAIWorld22/status/2039650952937140267)
