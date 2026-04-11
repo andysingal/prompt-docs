@@ -53,3 +53,8 @@ https://github.com/hesreallyhim/awesome-claude-code
 https://github.com/gsd-build/get-shit-done
 
 10. [Universal Claude.md](https://github.com/drona23/claude-token-efficient)
+
+11. [10 Slash Commands to Use Claude Code like Boris Cherny Does (with a bonus)!](https://x.com/_avichawla/status/2042929462908719352)
+You can save a markdown file in .claude/commands/, and it becomes a slash command you can invoke with identical instructions every time.
+The prompts are version-controlled through Git, so your whole team runs the same commands, and when someone improves a prompt, everyone gets the update on their next pull.
+
