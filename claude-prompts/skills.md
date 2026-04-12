@@ -68,6 +68,14 @@ Output: Use the Knowledge base to help generate work that aligns with the resear
 ```
 
 [AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs)
+
+
+The "inject dynamic context" pattern in Claude Code skills is so useful.
+
+IMO, this should be part of the "skills standard" and included in tools like Codex CLI, Pi, Cursor etc
+
+<img width="727" height="668" alt="Screenshot 2026-04-11 at 9 34 08 PM" src="https://github.com/user-attachments/assets/0f80a35e-5db1-44b6-89f2-af4ddaa13b05" />
+
 - 
 
 
