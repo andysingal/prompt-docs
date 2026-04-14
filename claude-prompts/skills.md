@@ -88,3 +88,9 @@ After spending the better part of a year building enterprise agent applications,
 - [I Stopped Collecting Agent Skills. Started Wiring Them Into Loops](https://x.com/Voxyz_ai/status/2039704571165987213)
 - [llm-wiki-skill](https://github.com/infranodus/skills/blob/master/skill-llm-wiki/SKILL.md)
 Guide users through setting up a personal LLM-maintained wiki — a persistent, compounding knowledge base where the LLM incrementally builds and maintains interlinked markdown pages from raw sources. Use this skill when the user wants to: set up a personal knowledge base, create a research wiki, organize notes with LLM help, build a "second brain", set up an Obsidian + LLM workflow, create a persistent knowledge graph from documents, plan research priorities and next steps, or mentions "LLM wiki". This skill asks questions to understand the user's domain and goals, then scaffolds the entire wiki structure, schema, and workflows tailored to their needs. It also helps plan ongoing research by analyzing knowledge gaps and creating actionable todo lists.
+- [paper-finder](https://github.com/bchao1/paper-finder/blob/main/SKILL.md)
+Sharing a very simple Claude skill I created for ML literature survey. My experience with existing skills or ML paper search engines is that don't really capture how researchers *think* when doing literature search. Literature search is not just looking for keywords, but being creative, drawing parallels from different fields, and thinking two or three steps ahead. 
+
+I iterated this skill with Claude a couple of times to refine it and I am pretty satisfied with its current hit rate. Topics I surveyed include efficient video tokenization, mixed-resolution diffusion / tokenization, etc, and it gave me pretty accurate results and found papers that went under my radar. 
+
+Hope this is useful!
