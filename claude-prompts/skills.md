@@ -94,3 +94,14 @@ Sharing a very simple Claude skill I created for ML literature survey. My experi
 I iterated this skill with Claude a couple of times to refine it and I am pretty satisfied with its current hit rate. Topics I surveyed include efficient video tokenization, mixed-resolution diffusion / tokenization, etc, and it gave me pretty accurate results and found papers that went under my radar. 
 
 Hope this is useful!
+
+[Skill_manager_reseed](https://github.com/nattergabriel/reseed?twclid=2wx914zwaz90ysqka935hk7dd)
+
+reseed manages your agent skills across projects. Keep all your skills in one central library, pull in open source ones from GitHub, and add exactly what each project needs. Instead of global skills that bloat every project, skills live in each project so every teammate has access to them.
+
+If you find reseed useful, a ⭐ helps others discover it.
+
+The best part: reseed is itself a skill. Drop it in, tell your agent "set up skills for this project," and it does the rest.
+
+<img width="517" height="311" alt="Screenshot 2026-04-16 at 3 53 24 PM" src="https://github.com/user-attachments/assets/3eb032ae-dc47-40fc-bfd8-086a181b621e" />
+
