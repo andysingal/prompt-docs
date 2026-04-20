@@ -105,3 +105,10 @@ The best part: reseed is itself a skill. Drop it in, tell your agent "set up ski
 
 <img width="517" height="311" alt="Screenshot 2026-04-16 at 3 53 24 PM" src="https://github.com/user-attachments/assets/3eb032ae-dc47-40fc-bfd8-086a181b621e" />
 
+[notbook_ll_skill](https://notebooklm-skill-artemzhutov.netlify.app/skills.html)
+- Run in Claude Code: /plugin marketplace add ArtemXTech/personal-os-skills
+
+- Run /plugin, go to Discover tab, install notebooklm-skill
+
+- Restart Claude Code. The skill is ready.
+- Read the skill at https://github.com/ArtemXTech/personal-os-skills/tree/main/skills/notebooklm and walk me through setting it up step by step. Explain what we're doing and why before running any commands. Ask me to confirm before making changes.
