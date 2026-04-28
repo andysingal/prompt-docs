@@ -1,6 +1,10 @@
 A CLI skill that validates your SaaS idea before you write a single line of code
 [launch_check](https://github.com/TiyaaaJain/launch-check)
 
+[SkillForge](https://github.com/tripleyak/SkillForge)
+
+The central challenge in AI development isn't a lack of ideas, but the inconsistent process of turning them into robust, reliable skills. Current methods are often ad-hoc, brittle, and difficult to scale—resembling more of an art form than a predictable engineering discipline.
+
 [continuos_claude](https://github.com/parcadei/Continuous-Claude-v3)
 
 ```
