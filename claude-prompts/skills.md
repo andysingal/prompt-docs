@@ -116,3 +116,7 @@ The best part: reseed is itself a skill. Drop it in, tell your agent "set up ski
 
 - Restart Claude Code. The skill is ready.
 - Read the skill at https://github.com/ArtemXTech/personal-os-skills/tree/main/skills/notebooklm and walk me through setting it up step by step. Explain what we're doing and why before running any commands. Ask me to confirm before making changes.
+
+[improve-codebase-architecture](https://github.com/mattpocock/skills/blob/main/improve-codebase-architecture/SKILL.md)
+
+Find deepening opportunities in a codebase, informed by the domain language in CONTEXT.md and the decisions in docs/adr/. Use when the user wants to improve architecture, find refactoring opportunities, consolidate tightly-coupled modules, or make a codebase more testable and AI-navigable.
