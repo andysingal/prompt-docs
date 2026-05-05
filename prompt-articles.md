@@ -2,6 +2,10 @@
 
 [Building a Hybrid Rule-Based and Machine Learning Framework to Detect and Defend Against Jailbreak Prompts in LLM Systems](https://www.marktechpost.com/2025/09/21/building-a-hybrid-rule-based-and-machine-learning-framework-to-detect-and-defend-against-jailbreak-prompts-in-llm-systems/)
 
+[Structured-Prompt-Driven Development (SPDD)](https://martinfowler.com/articles/structured-prompt-driven/)
+
+SPDD aims to turn AI assistance from personal efficiency into an organization-level capability that scales, without trading away quality.
+
 [How System Prompts Reveal Model Biases](https://blog.nilenso.com/blog/2026/02/12/how-system-prompts-reveal-model-biases/)
 1. Claude Code
 - ```You can call multiple tools in a single response```. - This line appears 7 times in the system prompt! Once in the generic tool use policy, and then it is repeated inside almost every tool’s instruction.
