@@ -94,3 +94,21 @@ Agents continuously improve within the loop.
 Each completed loop brings the system closer to the goal than the last.
 Agents never lack for Loops.
 What's missing is the engineering of Loops.
+
+
+```
+You are helping me build a loop orchestration skill in Claude Code.
+
+Goal of the loop: [the repeating task, in one sentence]
+Definition of done: [the objective rule that means it's finished]
+
+Build the skill with:
+1. A trigger I can run as /[name]-loop
+2. The execution skills it should call (list the ones that already exist)
+3. A verification step that returns approved / not approved or a 1-10 score
+4. A separate sub-agent to grade the output, not the agent that produced it
+5. An output file and a memory file that logs what worked and what failed each run
+
+Start in loop training mode: pause at every step for my approval before continuing.
+Do not run past the done-check.
+```
