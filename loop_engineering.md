@@ -112,3 +112,5 @@ Build the skill with:
 Start in loop training mode: pause at every step for my approval before continuing.
 Do not run past the done-check.
 ```
+
+[loop-engineering](https://github.com/cobusgreyling/loop-engineering)
