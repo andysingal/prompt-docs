@@ -114,3 +114,9 @@ Do not run past the done-check.
 ```
 
 [loop-engineering](https://github.com/cobusgreyling/loop-engineering)
+
+
+[Loop Engineering vs Harness Engineering: The Difference](https://www.aibuilderclub.com/blog/loop-engineering-vs-harness-engineering)
+
+
+
